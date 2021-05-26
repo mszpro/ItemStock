@@ -47,6 +47,13 @@ If you want to add a tag to an item, use the `Edit` optionfrom that menu.
 アイテムの右側にある「...」ボタンをクリックすると、アクションが表示されます。
 アイテムにタグを追加したい場合は、そのメニューの「編集」を選択します。
 
+## Contribution
+
+I will be happy if you contribute.
+
+Suggest a feature: [New Issue](https://github.com/mszpro/ItemStock/issues/new)
+[New Pull Request](https://github.com/mszpro/ItemStock/compare)
+
 ## ファイル構造
 
 ### /Data
