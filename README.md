@@ -1,11 +1,9 @@
 #  Item Stock for Mac OS
 
-<img width="390" alt="image" src="/github-image.png">
+<img width="500" alt="image" src="/github-image.png">
 
 Stock is a MacOS menu bar app that helps you quickly save a web link, a file link, or a text by using drag and drop.
-
 You can simply drag a link from a web page, a file from Finder, or a selcted text into the icon on the system bar, and it will be saved.
-
 You can also search for an item, tag an item, and more (get an iCloud link if the file is located in your iCloud Drive).
 
 これはウェブリンク、ファイルリンク、テキストをドラッグアンドドロップですばやく保存するMac OSメニューバーアプリです。
