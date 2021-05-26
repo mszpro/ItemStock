@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20E232" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="StockItem" representedClassName="StockItem" syncable="YES" codeGenerationType="class">
+        <attribute name="addedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dueDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="fileDataContent" optional="YES" attributeType="Binary"/>
+        <attribute name="itemIconData" optional="YES" attributeType="Binary"/>
+        <attribute name="itemID" optional="YES" attributeType="String"/>
+        <attribute name="itemName" optional="YES" attributeType="String"/>
+        <attribute name="itemTag" optional="YES" attributeType="String"/>
+        <attribute name="itemUnread" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="itemURL" optional="YES" attributeType="URI"/>
+    </entity>
+    <elements>
+        <element name="StockItem" positionX="-63" positionY="-18" width="128" height="164"/>
+    </elements>
+</model>
